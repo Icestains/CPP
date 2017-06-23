@@ -1,0 +1,14 @@
+5
+green
+red 
+blue 
+red
+red 
+6
+pink
+orange
+pink
+orange
+pink
+orange
+0

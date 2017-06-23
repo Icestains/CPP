@@ -1,0 +1,8 @@
+2
+(ab[cd]e)
+(abc)
+3
+(ab[cd]e)
+(abc)
+(abc)[defg]
+
