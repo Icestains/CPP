@@ -14,6 +14,7 @@ int main() {
 		}
 		cout << n * 5 + shang * 6 - xia * 4 << endl;
 	}
+	getchar();
 	return 0;
 }
 
